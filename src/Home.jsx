@@ -223,7 +223,7 @@ function Home() {
 
                 <div className="flex flex-col-reverse lg:flex-row items-center gap-8 lg:gap-32 px-6 py-16 max-w-7xl mx-auto">
                     <div className="lg:w-1/2 text-gray-700">
-                        <h2 className="text-3xl font-bold text-purple-700 sm:text-4xl mb-4">Vocabulary,Pronounce and more Learn Topic.</h2>
+                        <h2 className="text-3xl font-bold text-purple-700 sm:text-4xl mb-4">Vocabulary,Pronunciation and more Learn Topic.</h2>
                         <p className="mb-6">
                             Expand your English proficiency with tailored topics covering vocabulary, pronunciation, and more—designed to enhance your communication in the tourism industry."
                         </p>
@@ -365,7 +365,7 @@ function Home() {
                             <h3 className="tracking-wide uppercase ">Feature</h3>
                             <ul className="space-y-1">
                                 <li>
-                                    <p className="text-white">Pronouce</p>
+                                    <p className="text-white">Pronunciation</p>
                                 </li>
                                 <li>
                                     <p className="text-white">Vocabulary</p>
@@ -374,7 +374,7 @@ function Home() {
                                     <p className="text-white">Grammer</p>
                                 </li>
                                 <li>
-                                    <p className="text-white">Talk Friends</p>
+                                    <p className="text-white">Talk with Friends</p>
                                 </li>
                             </ul>
                         </div>

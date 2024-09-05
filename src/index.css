@@ -28,3 +28,22 @@ body {
 .bg-fitur4{
     background-image: url('https://images.unsplash.com/photo-1556745753-b2904692b3cd?q=80&w=1373&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 }
+
+.bg-fitur5{
+    background-image: url('./assets/images/office.jpg');
+}
+
+.bg-fitur6{
+    background-image: url('./assets/images/house.jpg');
+}
+.bg-fitur7{
+    background-image: url('./assets/images/laundry.jpg');
+}
+
+.bg-fitur8{
+    background-image: url('./assets/images/guid.jpg');
+}
+
+.bg-fitur9{
+    background-image: url('./assets/images/business.jpg');
+}

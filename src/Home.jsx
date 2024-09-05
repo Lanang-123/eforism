@@ -277,11 +277,11 @@ function Home() {
             {/* Portofolio */}
             <section className="bg-gray-50">
                 <div className="container px-6 py-10 mx-auto">
-                    <h1 className="text-4xl font-semibold text-center text-transparent bg-clip-text bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 sm:text-4xl  drop-shadow-lg capitalize lg:text-5xl ">Relevant Topic For Learning</h1>
+                    <h1 className="text-4xl font-semibold text-center text-transparent  sm:text-4xl  drop-shadow-lg capitalize lg:text-5xl bg-clip-text bg-gradient-to-r from-purple-500 via-pink-500 to-purple-500 md:h-14">Relevant Topic For Learning</h1>
                     <p className='text-slate-400 text-center my-3 mb-16'>Relevant topics for learning empower students with practical skills and knowledge directly applicable to their future careers.</p>
 
-                    <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 lg:grid-cols-2">
-                        <div className="relative flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-fitur1">
+                    <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 lg:grid-cols-3">
+                        <div className="relative flex items-end overflow-hidden rounded-lg h-96 bg-fitur1">
                             <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
                                 <h2 className="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">Basic English Skill</h2>
                                 <p className="mt-2 text-lg tracking-wider text-purple-400 uppercase font-bold">Topic</p>
@@ -302,6 +302,36 @@ function Home() {
                         <div className="relative flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-fitur4">
                             <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
                                 <h2 className="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">Understanding Customer Service</h2>
+                                <p className="mt-2 text-lg tracking-wider text-purple-400 uppercase font-bold">Topic</p>
+                            </div>
+                        </div>
+                        <div className="relative flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-fitur5">
+                            <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
+                                <h2 className="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">Front Office</h2>
+                                <p className="mt-2 text-lg tracking-wider text-purple-400 uppercase font-bold">Topic</p>
+                            </div>
+                        </div>
+                        <div className="relative flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-fitur6">
+                            <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
+                                <h2 className="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">Housekeeping</h2>
+                                <p className="mt-2 text-lg tracking-wider text-purple-400 uppercase font-bold">Topic</p>
+                            </div>
+                        </div>
+                        <div className="relative flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-fitur7">
+                            <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
+                                <h2 className="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">English for Laundry</h2>
+                                <p className="mt-2 text-lg tracking-wider text-purple-400 uppercase font-bold">Topic</p>
+                            </div>
+                        </div>
+                        <div className="relative flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-fitur8">
+                            <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
+                                <h2 className="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">English for Guiding</h2>
+                                <p className="mt-2 text-lg tracking-wider text-purple-400 uppercase font-bold">Topic</p>
+                            </div>
+                        </div>
+                        <div className="relative flex items-end overflow-hidden bg-cover rounded-lg h-96 bg-fitur9">
+                            <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
+                                <h2 className="mt-4 text-xl font-semibold text-gray-800 capitalize dark:text-white">English for Business</h2>
                                 <p className="mt-2 text-lg tracking-wider text-purple-400 uppercase font-bold">Topic</p>
                             </div>
                         </div>
